@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
     QTextEdit txt;
     txt.setHtml("<HТМL>"
 "<BODY BGCOLOR=YELLOW>"
-"<CENTER><IMG SRC=\"D:\android_logo.png\"></CENTER>"
+"<CENTER><IMG SRC=\"android_logo.png\"></CENTER>"
 "<H2><CENТER>Gnome Poem</CENТER></H2>"
 "<FONТ COLOR=BLUE>"
 "<Р ALIGN=\"center\">"
